@@ -1,5 +1,7 @@
-### Hi,I'm George Wangila
+# Hi, I'm George Wangila
 
-- I'm learning computer programming
-- I love creating websites
+## About Me
+- I'm currently learning computer programming
+- I'm interested in web development and ai
 - I'm a chess enthusiast
+- You can reach me through georgewekesa436@gmail.com
